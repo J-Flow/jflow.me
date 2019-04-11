@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#content-area {
+    max-width: 960px;
+    margin: auto;
+    height: 640px;
+    border-width: 1px;
+    border-top-width: 0px;
+    border-color: black;
+    border-style: solid;
+}
